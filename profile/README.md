@@ -1,12 +1,8 @@
-## Hi there 👋
+## Welcome to the EDSA team GitHub page 👋
 
-<!--
+This is the GitHub Organisation for the Enterprise Data Strategy & Architecture (EDSA) team within Architecture & Analysis (A&A).
 
-**Here are some ideas to get you started:**
+For all documentation relating to this Organisation - including guidelines and standards for creating and maintaining repositories within it - please see the accompanying [Confluence page](https://cambridgeorg.atlassian.net/wiki/x/bgAv5gE).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For any queries regarding this GitHub Organisation or the EDSA team in general, please speak to **Noemi Moreno Fabelo** (Head of Data Strategy & Architecture).
+
